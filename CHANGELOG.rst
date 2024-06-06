@@ -17,6 +17,10 @@ Unreleased
 ----------
 * nothing unreleased
 
+[4.19.10]
+---------
+* feat: submit ``create_enterprise_enrollment`` task on commit
+
 [4.19.9]
 --------
 * feat: making unencrypted client credentials nullable, so they can be removed
